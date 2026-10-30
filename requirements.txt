@@ -1,0 +1,7 @@
+keyboard==0.13.5
+numpy==2.4.6
+opencv-python-headless==5.0.0.93
+PyAutoGUI==0.9.54
+PyDirectInput==1.0.4
+pywinauto==0.6.9
+rich==15.0.0
